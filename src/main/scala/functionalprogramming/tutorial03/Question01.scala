@@ -1,4 +1,4 @@
-package functionalprogramming.tutorial02
+package functionalprogramming.tutorial03
 
 import scala.math.Pi
 
